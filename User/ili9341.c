@@ -8,9 +8,6 @@
 #include "ili9341.h"
 #include "main.h"
 
-
-
-
 void ILI9341_Init(void){
 	ILI9341_Reset();
 	ILI9341_SoftReset();
